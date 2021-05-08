@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SebastianHa2
 - 👀 I’m interested in full-stack web development.
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on building websites.
+- 🌱 I’m currently learning React.js
+- 💞️ I’m looking to collaborate on building websites and web applications.
 - 📫 You can reach me at hacza212@gmail.com
 
 <!---
