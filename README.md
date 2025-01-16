@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SebastianHa2
-- 👀 I’m interested in full-stack web development.
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on building websites and web applications.
+- 👋 Wazzup, I’m @SebastianHa2
+- 👀 I’m interested in full-stack application and cloud development.
+- 🌱 I’m currently learning creating integrations in google cloud.
+- 💞️ I’m currently helping develop a powerful lowcode platform. 
 - 📫 You can reach me at hacza212@gmail.com
 
 <!---
